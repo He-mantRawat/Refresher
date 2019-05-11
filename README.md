@@ -9,3 +9,21 @@ This repository is for me to work on some of the fundamentals of programming suc
   OOP,
   Etc....
 The goal for this repository is to GIT me back on track
+
+Today's Date 5/10/2019
+
+Review Data Structures
+
+Goal: 5/31/2019
+
+Review OOP
+
+Goal:  6/20/2019
+
+Review Architecture
+
+Goal 7/20/2019
+
+Review Algorithms
+
+Goal 8/20/2019
