@@ -8,7 +8,7 @@ This repository is for me to work on some of the fundamentals of programming suc
   Simple Algorithms,
   OOP,
   Etc....
-The goal for this repository is to GIT me back on track
+The goal for this repository is to GIT me back on track with a 3 month plan to refresh on some of the basics of programming
 
 Today's Date 5/10/2019
 
