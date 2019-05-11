@@ -8,4 +8,4 @@ This repository is for me to work on some of the fundamentals of programming suc
   Simple Algorithms,
   OOP,
   Etc....
-The goal for this repository is to help me get re-learn some of the skills I lost while programming in Labview.
+The goal for this repository is to GIT me back on track
